@@ -97,8 +97,8 @@ end
 ## Endpoints
 The following endpoints are available in the API wrapper:
 
-|Endpoint|	|Description|
-|/api/home|	|Get the home resource list|
+|Endpoint||Description|
+|/api/home||Get the home resource list|
 |/api/scores|	|Get the list of ability scores|
 |/api/alignments||Get the list of alignments|
 |/api/skills|	|Get the list of skills|
