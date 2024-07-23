@@ -1,3 +1,4 @@
+![api_wrapper](https://e7.pngegg.com/pngimages/666/575/png-clipart-dungeons-dragons-pathfinder-roleplaying-game-return-to-white-plume-mountain-role-playing-game-others-miscellaneous-game.png)
 # API Wrapper Documentation
 
 This documentation provides an overview of the API wrapper for accessing the D&D 5e API. The wrapper is built using Ruby on Rails and includes a request handling module, a client module for fetching various resources, and defined routes for accessing the data.
