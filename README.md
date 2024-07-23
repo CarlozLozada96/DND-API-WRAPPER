@@ -99,13 +99,13 @@ The following endpoints are available in the API wrapper:
 
 Endpoint | Description |
 |:---|:---|
-| /api/home || Get the home resource list |
-| /api/scores |	| Get the list of ability scores |
-| /api/alignments | | Get the list of alignments |
-| /api/skills |	| Get the list of skills |
-| /api/classes |	| Get the list of classes |
-| /api/races |	| Get the list of races |
-| /api/subclasses |	| Get the list of subclasses |
+| /api/home | Get the home resource list |
+| /api/scores |	Get the list of ability scores| 
+| /api/alignments |  Get the list of alignments |
+| /api/skills |	Get the list of skills |
+| /api/classes |	 Get the list of classes |
+| /api/races |	 Get the list of races |
+| /api/subclasses |	 Get the list of subclasses |
 
 ## Routes Configuration
 The routes are defined in config/routes.rb:
